@@ -1,64 +1,31 @@
-# Responsive Portfolio with Bootstrap
-
-
-
+# Professional-Portfolio!
 ___
 ### About Me:
-[asdas](https://www.youtube.com/watch?v=dv7CWyERvV0&ab_channel=pokerchampion "title")
-
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=dv7CWyERvV0&ab_channel=pokerchampion "Everything Is AWESOME")
-
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-![Portfolio](./assets/8.png)
-![Portfolio](./assets/7.png)
-
-## Changelog index.html:
 
 
-* _Responsive navbar_
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=TvbKsVHTO1Y&ab)](https://www.youtube.com/watch?v=TvbKsVHTO1Y&ab_channel=pokerchampion "Everything Is AWESOME")
 
-### Contact
-![Portfolio](./assets/6.png)
-![Portfolio](./assets/10.png)
-* _Responsive form_
-
+### Index:
+![Portfolio](./assets/1.png)
+___
+### Contact:
+![Portfolio](./assets/13.png)
 ### Portfolio:
-![Portfolio](./assets/9.png)
-![Portfolio](./assets/11.png)
-
-* _Responsive images_
----
-### Tools used:
-* Navbar component
-* Responsive navigation header
-* Collapsable navbar
-* Hidden navbar at lower screen sizes
-* Layout
-* Containers
-* Breakpoins
-* Grid system
-* Rows
-* Columns
-
-<br>
+![Portfolio](./assets/14.png)
 
 
+### Credits:
 
-
-##### Credits:
 >* [Bootstrap](https://getbootstrap.com/)
 >* [Google](https://www.google.com/)
 >* [W3Schools](https://www.w3schools.com/)
 >* [MDB](https://mdbootstrap.com/)
 >* [Giphy](https://giphy.com/)
 
-##### Contributors:
+### Contributors:
 
 * matachemarius92@gmail.com
 * [Matache Marius](https://github.com/MatacheMarius)
-##### Directory:
-* [Current Repository](https://github.com/MatacheMarius/H2_Bootstrap_Portfolio)
-* [Website](https://matachemarius.github.io/H2_Bootstrap_Portfolio/.)
----
-#### Licences: **_none_**
+### Directory:
+* [Current Repository](https://github.com/MatacheMarius/Professional-Portfolio)
+* [Website](https://matachemarius.github.io/Professional-Portfolio/.)
