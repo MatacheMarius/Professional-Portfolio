@@ -5,8 +5,9 @@ ___
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=TvbKsVHTO1Y&ab)](https://www.youtube.com/watch?v=TvbKsVHTO1Y&ab_channel=pokerchampion "Everything Is AWESOME")
 
-### Index:
-![Portfolio](./assets/12,ong)
+### About Me
+![Portfolio](./assets/13.png)   
+* _Responsive navbar_
 
 ### Contact:
 ![Portfolio](./assets/13.png)
