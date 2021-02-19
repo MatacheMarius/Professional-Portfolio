@@ -7,12 +7,12 @@ ___
 
 ### Index:
 ___
-![Portfolio](./assets/1.png)
+![Portfolio](./Assets/1.png)
 ___
 ### Contact:
-![Portfolio](./assets/13.png)
+![Portfolio](./Assets/13.png)
 ### Portfolio:
-![Portfolio](./assets/14.png)
+![Portfolio](./Assets/14.png)
 
 
 ### Credits:
