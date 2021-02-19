@@ -17,11 +17,11 @@ ___
 
 ### Credits:
 
->* [Bootstrap](https://getbootstrap.com/)
->* [Google](https://www.google.com/)
->* [W3Schools](https://www.w3schools.com/)
->* [MDB](https://mdbootstrap.com/)
->* [Giphy](https://giphy.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google](https://www.google.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [MDB](https://mdbootstrap.com/)
+* [Giphy](https://giphy.com/)
 
 ### Contributors:
 
